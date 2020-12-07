@@ -9,6 +9,7 @@ function About(props) {
         “Human is not made to be defeated. Human may be destroyed, but he cannot be defeated.”
       </span>
       <span>− 어니스트 해밍웨이, 노인과 바다</span>
+      <span>− 리액트 앱 구축 연습  ٩꒰｡•◡•｡꒱۶ </span>
     </div>
   );
 }
